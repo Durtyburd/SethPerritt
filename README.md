@@ -1,2 +1,2 @@
-# SethPerritt
-My second site. 
+# Portfolio Website
+This is my portfolio website.
